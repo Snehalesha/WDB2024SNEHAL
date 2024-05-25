@@ -44,3 +44,36 @@ Accomplishments:
             007 2.4-Movie-Ranking-Project (Exercise)   
             008 Goal-Setting-Questions  
             008 How to Ace this Course
+
+ 24/05/2024
+            03 - Intermediate HTML
+
+            001 3.0-List-Elements   
+            001 The List Element
+            002 3.1-Nesting-and-Indentation   
+            002 Nesting and Indentation
+            003 3.2-Anchor-Elements   
+            003 Anchor Elements
+            003 MDN-Docs-Ordered-List   
+            004 3.3-Image-Elements   
+            004 Image Elements
+            005 [Project] Birthday Invite
+            005 3.4-Birthday-Invite-Project   
+            006 Tip from Angela - Habit Building with the Calendar Trick
+            007 Get Access to the Monthly App Brewery Newsletter
+
+  25/05/2024          
+
+          04 - Multi-Page Websites
+
+            001 4.0-File-Paths   
+            001 Computer File Paths
+            002 4.1-Webpages   
+            002 What are Webpages
+            003 The HTML Boilerplate
+            004 [Project] Portfolio Website
+            004 4.3-HTML-Portfolio-Project   
+            005 GitHub   
+            005 How to Host Your Website for Free with GitHub
+            006 Introduction to Capstone Projects
+            007 Instructions for Capstone Project 1 - Online Resume   
