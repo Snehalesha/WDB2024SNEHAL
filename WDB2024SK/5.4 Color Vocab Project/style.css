@@ -1,0 +1,39 @@
+h1{
+    font-size: 45px;
+    font-style: calc(20);
+    color: firebrick;
+}
+h2{
+    text-align: center;
+    size: 12px;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+.color-title{
+    font-weight: normal;
+}
+
+#red {
+    color: red;
+  }
+  
+  #blue {
+    color: blue;
+  }
+  
+  #orange {
+    color: orange;
+  }
+  
+  #green {
+    color: green;
+  }
+  
+  #yellow {
+    color: yellow;
+  }
+  
