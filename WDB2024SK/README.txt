@@ -92,5 +92,27 @@ Accomplishments:
            008 [Project]Color-vocab-Project
            009 Tips from angela-dealing with distraction
 
+
+           06 - CSS Proprties
+
+           001 6.0-CSS Colours
+           002 6.1-Font Properties
+           003 Inspecting CSS
+           004 6.3-The CSS Box Model - Margin, Padding and Border
+           005 6.4-[Project] Motivational Poster Website
+
+
+           07 - Intermediate CSS
+
+           001 7.0-CSS Cascade
+           002 7.1-Combining Selectors
+           003 7.2-CSS Positioning
+           004 7.3-[Project] CSS Flag Project
+           005 7.4-tips from angela-nothing easy is worth doing
+
+           08 - advanced CSS
+           
+
+
            
            
