@@ -77,3 +77,41 @@ Accomplishments:
             005 How to Host Your Website for Free with GitHub
             006 Introduction to Capstone Projects
             007 Instructions for Capstone Project 1 - Online Resume   
+    26/05/2024         
+
+           05 -  Introduction to CSS  
+
+           001 5.0-Why do we need CSS
+           002 5.1-Adding CSS
+           003 How to add CSS
+           004 CSS Quiz
+           005 5.3-CSS Selectors
+           006 MDN-Docs List
+           007 5.4-Color-vocab-Websites
+           008 [Project]Color-vocab-Project
+           009 Tips from angela-dealing with distraction
+
+
+           06 - CSS Proprties
+
+           001 6.0-CSS Colours
+           002 6.1-Font Properties
+           003 Inspecting CSS
+           004 6.3-The CSS Box Model - Margin, Padding and Border
+           005 6.4-[Project] Motivational Poster Website
+
+
+           07 - Intermediate CSS
+
+           001 7.0-CSS Cascade
+           002 7.1-Combining Selectors
+           003 7.2-CSS Positioning
+           004 7.3-[Project] CSS Flag Project
+           005 7.4-tips from angela-nothing easy is worth doing
+
+           08 - advanced CSS
+           
+
+
+           
+           
