@@ -121,5 +121,22 @@ Accomplishments:
            005 8.4-[Project] Web Design Agency Project.
 
 
+  29/05/204  
+            09 - FlexBOX  
            
+          001 9.0-DISPLAY-Flex
+          002 9.1-Flex Layout
+          003 9.3-Flex Sizing
+          005 9.4-[Project] Pricing Table
+          006-9.5-Tip from Angela - Building a Programming Habit      
+           
+           10 - GRIDS
+
+         001 10.0-Display grids
+         002 10.1-Grid sizzing
+         003 10.2-Grid placement
+         004 10.3-[Project] Mondrian Project
+
+
+         
            
