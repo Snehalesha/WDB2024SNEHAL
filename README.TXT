@@ -130,7 +130,7 @@ Accomplishments:
           005 9.4-[Project] Pricing Table
           006-9.5-Tip from Angela - Building a Programming Habit      
            
-           10 - GRIDS
+              10 - GRIDS
 
          001 10.0-Display grids
          002 10.1-Grid sizzing
@@ -138,5 +138,11 @@ Accomplishments:
          004 10.3-[Project] Mondrian Project
 
 
-         
-           
+30/05/2024
+
+          11 - Bootstrap
+
+        001 11.1-What is Bootstrap?
+        002 11.2-Bootstrap Layout
+        003 11.3-Bootstrap Components
+        004 11.4-[Project] TinDog Startup Website  Project
