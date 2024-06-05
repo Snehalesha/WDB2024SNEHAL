@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <h1>BMI Calculator</h1>
+    <label for="height">Height (cm):</label>
+    <input type="number" id="height" placeholder="Enter height in cm">
+    <br>
+    <label for="weight">Weight (kg):</label>
+    <input type="number" id="weight" placeholder="Enter weight in kg">
+    <br>
+    <button onclick="calculateBMI()">Calculate BMI</button>
+    <p id="result"></p>
+
+    <script>
+        function calculateBMI() {
+            const height = parseInt(document.querySelector("#height").value);
+            const weight = parseInt(document.querySelector("#weight").value);
+            const result = document.querySelector("#result");
+
+            if (is NaN(height) || is NaN(weight)) {
+                result.innerHTML = "Provide a valid Height or Weight!";
+            } else {
+                const bmi = (weight / ((height * height) / 10000)).toFixed(2);
+
+                if (bmi < 18.6) {
+                    result.innerHTML = `Underweight: <span> ${bmi}</span>`;
+                } else if (bmi >= 18.6 && bmi < 24.9) {
+                    result.innerHTML = `Normal: <span> ${bmi}</span>`;
+                } else {
+                    result.innerHTML = 'Overweight: <span>${bmi}</span>';
+                }
+            }
+        }
+    </script>
+</body>
+</html>

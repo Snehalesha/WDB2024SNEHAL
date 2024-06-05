@@ -146,3 +146,27 @@ Accomplishments:
         002 11.2-Bootstrap Layout
         003 11.3-Bootstrap Components
         004 11.4-[Project] TinDog Startup Website  Project
+
+ 02/06/2024
+         * - CAPSTONE Project
+         001-*.1- Introduction to Capstone Projects
+
+ 05/06/2024
+         
+         12 - Introduction to Javascript
+
+            001-1.1-Introduction to Javascript
+            002-1.2-Javascript Alerts - Adding Behaviour to Websites
+            003-1.3-Data Types
+            004-1.4-Javascript Variables
+            005-1.5- Javascript String [Concatenation,length,slicing,cases]
+            006-1.6-JavaScript operators & expression.
+            007-1.7-Javascript Functions
+            008-1.8-exercise[ The Karel Robot]
+            009-1.9-exercise[Life in Weeks]
+            010-10.1-Create a BMI Calculator using JavaScript.
+
+
+         13 - Intermediate JavaScript
+
+            001    

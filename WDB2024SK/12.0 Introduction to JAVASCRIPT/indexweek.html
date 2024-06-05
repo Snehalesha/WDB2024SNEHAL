@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life in Weeks</title>
+</head>
+<body>
+    <h1>Your Remaining Time</h1>
+    <p id="remainingTime"></p>
+
+    <script>
+        function lifeInWeeks(age) {
+            const yearsOfRemaining = 120 - age;
+            const days = yearsOfRemaining * 365;
+            const weeks = yearsOfRemaining * 52;
+            const months = yearsOfRemaining * 12;
+
+            const output = `You have ${days} days, ${weeks} weeks, and ${months} months left.`;
+            document.getElementById('remainingTime').textContent = output;
+        }
+
+        
+        lifeInWeeks(56); 
+    </script>
+</body>
+</html>
