@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>leap year</title>
+</head>
+<body>
+    <h1>Your Remaining Time</h1>
+    <p id="remainingTime"></p>
+    <script>
+function isLeap(year) {
+    
+
+    if (year % 4 === 0) {
+        if (year % 100 === 0) {
+            if (year % 400 === 0) {
+                return "Leap year.";
+            }else {
+                return "Not leap year.";
+            }
+        }else {
+          return "Leap year.";
+        }
+    }else {
+        return "Not leap year.";
+    }
+    
+    
+   
+
+}
+
+
+    </script>
+</body>
+</html>

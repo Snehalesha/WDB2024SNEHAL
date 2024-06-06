@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love Calculator</title>
+    <style>
+        
+    </style>
+</head>
+<body>
+    <h1>Love Calculator</h1>
+    <input type="text" id="name1" placeholder="Enter your name">
+    <input type="text" id="name2" placeholder="Enter your partner's name">
+    <button onclick="calculateLove()">Calculate</button>
+    <p id="result"></p>
+
+    <script>
+        function calculateLove() {
+            const name1 = document.getElementById('name1').value.toLowerCase();
+            const name2 = document.getElementById('name2').value.toLowerCase();
+
+            
+            const totalNum = name1.length * name2.length;
+            const loveScore = (totalNum % 100) + 1;
+
+            document.getElementById('result').innerText = `Your love score: ${loveScore}%`;
+        }
+    </script>
+</body>
+</html>
