@@ -169,4 +169,23 @@ Accomplishments:
 
          13 - Intermediate JavaScript
 
-            001    
+            001-13.1-Random Number Generation in Javascript: Building a Love Calculator
+             002-13.2-Control Statements: Using If-Else Conditionals & Logic
+             003-13.3-Comparators and Equality
+             004-13.4-Combining Comparators
+             005-13.5-BMI Calculator Advanced (IF/ELSE)
+             006-13.6-Introducing the Leap Year Code Challenge
+             007-13.7-Adding Elements and Intermediate Array Techniques
+             008-13.8-Control Statements: While Loops
+             009-13.9-Control Statements: For Loops
+             010-13.10Introducing the Fibonacci Code Challenge
+
+
+        14 - The Document Object Model [DOM]    
+
+             
+
+
+
+
+          
